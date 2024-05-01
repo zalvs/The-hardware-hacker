@@ -1,4 +1,4 @@
-esse projeto tem como ideal trazer conteudos de hardware hacking para as comunidades falantes de russo, frances e portugues. Os arquivos foram corrigidos tanto por mim quanto por IA's evitandoa assim erros de tradução
+esse projeto tem como ideal trazer conteudos de hardware hacking para as comunidades falantes de russo, frances e portugues. Os arquivos foram corrigidos tanto por mim quanto por IA's evitando assim erros de tradução
 ===============================================================================================================================================================================================================================================
 This project aims to bring hardware hacking content to Russian, French, and Portuguese speaking communities. The files were corrected by both me and AI’s, thus avoiding translation errors
 ===============================================================================================================================================================================================================================================
